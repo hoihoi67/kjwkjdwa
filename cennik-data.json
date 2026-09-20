@@ -1,0 +1,12 @@
+{
+  "categories": {
+    "test": {
+      "key": "test",
+      "label": "test",
+      "title": "test",
+      "description": "nwm",
+      "emoji": "💰",
+      "content": "test"
+    }
+  }
+}
